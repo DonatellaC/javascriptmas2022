@@ -13,8 +13,13 @@ E.g.
 For breakfast, I only like croissants 🥐. For lunch, I love pasta 🍝, 
 and for supper I want usually want pizza 🍕.
 */
+const meals = document.getElementById("meals");
 const faveFoods = {
-  breakfast: "",
-  lunch: "",
-  supper: "",
+  breakfast: "fruits",
+  lunch: "pasta",
+  supper: "soup",
 };
+
+const { breakfast, lunch, supper } = faveFoods;
+
+meals.innerHTML = `<p> For breakfast, I eat ${breakfast} 🍎. For lunch, I usually eat ${lunch} 🍝. For dinner, I have ${supper} 🍲 </p>`;
