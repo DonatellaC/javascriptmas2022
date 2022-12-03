@@ -24,6 +24,14 @@ array should look like this when you're done:
 Read about toDateString() for info on formatting a readable date. 
 
 */
-function transformData(data) {}
+function transformData(data) {
+  return data.map((user) => {
+    const dateFormat = new Date(user.dob.date);
+    return {
+      fullName: `${user.name.first} ${user.name.last}`,
+      birthday: dateFormat.toDateString(),
+    };
+  });
+}
 
 console.log(transformData(userData));
