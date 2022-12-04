@@ -9,3 +9,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 2 [Totally Private Data Farm](https://scrimba.com/scrim/co6884b82b670f1f9b44ab89b)
 
 ### Day 3 [Favorite Foods](https://scrimba.com/scrim/co61f469eaa7cbb57fef89db9)
+
+### Day 4 [Shh... Whispering Function](https://scrimba.com/scrim/co8094545a6599962021baee1)
