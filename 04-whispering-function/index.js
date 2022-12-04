@@ -13,5 +13,13 @@ output: "shh... the kittens are sleeping"
 Hint: endsWith and slice
 */
 
+function whisper(sentence) {
+  const sentenceLowerCase = sentence.toLowerCase();
+  const newSentence = "shh... " + sentenceLowerCase;
+  return newSentence.endsWith("!")
+    ? newSentence.slice(0, newSentence.length - 1)
+    : newSentence;
+}
+
 console.log(whisper("PLEASE STOP SHOUTING."));
 console.log(whisper("MA'AM, this is a Wendy's!"));
