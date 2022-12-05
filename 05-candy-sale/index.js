@@ -17,4 +17,12 @@ import products from "./data.js";
     ]
 */
 
-function getSaleItems(data) {}
+function getSaleItems(products) {
+  const filteredItems = products.filter((product) => product.type === "sweet");
+  const shoppingCart = filteredItems.map((filteredItem) => ({
+    item: filteredItem.item,
+    price: filteredItem.price,
+  }));
+  return shoppingCart;
+}
+console.log(getSaleItems(products));
