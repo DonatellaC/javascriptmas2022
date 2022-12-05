@@ -11,3 +11,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 3 [Favorite Foods](https://scrimba.com/scrim/co61f469eaa7cbb57fef89db9)
 
 ### Day 4 [Shh... Whispering Function](https://scrimba.com/scrim/co8094545a6599962021baee1)
+
+### Day 5 [Candy sale](https://scrimba.com/scrim/co1854011a7bdd23d5672c6c5)
