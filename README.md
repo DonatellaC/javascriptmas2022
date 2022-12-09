@@ -19,3 +19,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 7 [Taco tray](https://scrimba.com/scrim/coeb44443b2c6ea520a9d6b38)
 
 ### Day 8 [Valid time](https://scrimba.com/scrim/coc09430aa694b59e2d7ab6d3)
+
+### Day 8 [toTitleCase()](https://scrimba.com/scrim/co59d44d7a1c59b52b1a060e5)
