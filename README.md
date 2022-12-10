@@ -16,10 +16,10 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 
 ### Day 6 [Taco tray](https://scrimba.com/scrim/co7f347bb866e742808d0ec0e)
 
-### Day 7 [Taco tray](https://scrimba.com/scrim/coeb44443b2c6ea520a9d6b38)
+### Day 7 [Alternating Caps Day](https://scrimba.com/scrim/coeb44443b2c6ea520a9d6b38)
 
 ### Day 8 [Valid time](https://scrimba.com/scrim/coc09430aa694b59e2d7ab6d3)
 
 ### Day 9 [toTitleCase()](https://scrimba.com/scrim/co59d44d7a1c59b52b1a060e5)
 
-### Day 10
+### Day 10 [Sort by length](https://scrimba.com/scrim/cobc14d6790a4fa1ae53da04f)
