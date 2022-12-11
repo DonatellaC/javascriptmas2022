@@ -24,7 +24,7 @@ Example output: Welcome to earth!
 */
 
 function reverseString(arr) {
-  return arr;
+  return arr.split("").reverse().join("");
 }
 
 /*
@@ -36,7 +36,7 @@ reverse the strings manually.
 */
 
 function reverseStringsInArray(arr) {
-  return arr;
+  return arr.map(reverseString);
 }
 
 console.log(reverseString(title));
