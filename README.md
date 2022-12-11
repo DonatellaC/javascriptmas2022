@@ -23,3 +23,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 9 [toTitleCase()](https://scrimba.com/scrim/co59d44d7a1c59b52b1a060e5)
 
 ### Day 10 [Sort by length](https://scrimba.com/scrim/cobc14d6790a4fa1ae53da04f)
+
+### Day 11 [Decode an Alien Message](https://scrimba.com/scrim/co7c94886a14f49fbfdfcc0a7)
