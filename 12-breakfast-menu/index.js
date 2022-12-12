@@ -11,5 +11,9 @@ the following div for each food in the array:
 `<div class="food">FOOD VALUE HERE</div>` 
 4. Remember to remove any separating commas between the food divs!
 */
-
+const menu = document.getElementById("menu");
 const dinnerFoods = ["🍝", "🍔", "🌮"];
+menu.innerHTML = dinnerFoods.join(" ");
+const breakfastMenu = dinnerFoods.map((dinnerFood) => {
+  return `<div class="food">${dinnerFood}</div>`;
+});
