@@ -25,3 +25,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 10 [Sort by length](https://scrimba.com/scrim/cobc14d6790a4fa1ae53da04f)
 
 ### Day 11 [Decode an Alien Message](https://scrimba.com/scrim/co7c94886a14f49fbfdfcc0a7)
+
+### Day 12 [Breakfast Menu](https://scrimba.com/scrim/cocd54231a4d4fe2c648dd3a6)
