@@ -29,3 +29,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 12 [Breakfast Menu](https://scrimba.com/scrim/cocd54231a4d4fe2c648dd3a6)
 
 ### Day 13 [Emojify](https://scrimba.com/scrim/cod96436cb1607c549a9ad062)
+
+### Day 14 [Count Vowel Consonant](https://scrimba.com/scrim/cof56479b8682f131946952e9)
