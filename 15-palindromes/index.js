@@ -6,7 +6,15 @@ Write a function to check if a lowercased string of letters is a palindrome.
 If the word is palidrome, return true. If it isn't, return false. 
 */
 
-function isPalindrome(str) {}
+function isPalindrome(str) {
+  const lowerCasedStr = str.toLowerCase();
+  const reversedStr = lowerCasedStr.split("").reverse().join("");
+  if (lowerCasedStr === reversedStr) {
+    return true;
+  } else {
+    return false;
+  }
+}
 
 // Test your function
 console.log(isPalindrome("abba"));
