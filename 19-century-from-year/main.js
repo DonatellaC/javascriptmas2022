@@ -17,7 +17,7 @@ Math.floor()
 */
 
 function centuryFromYear(num) {
-  //  write code here.
+  return num % 100 === 0 ? num / 100 : Math.floor(num / 100) + 1;
 }
 
 console.log(centuryFromYear(1905));
