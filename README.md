@@ -37,3 +37,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 16 [Insert Dashes](https://scrimba.com/scrim/co09142de8b99d06e8b301151)
 
 ### Day 17 [Pumpkin's Prizes](https://scrimba.com/scrim/co47c40059d0e4ece16f61d9c)
+
+### Day 18 [Candies](https://scrimba.com/scrim/co90345e1a7f34daa0ed28d6d)
