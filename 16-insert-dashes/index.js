@@ -11,6 +11,10 @@
 // split()
 
 function insertDashes(arr) {
-  // write code here
+  return arr
+    .split(" ")
+    .map((word) => word.split("").join("-"))
+    .join(" ");
+  // return arr.split("").join("-").split("- -").join(" ");
 }
 console.log(insertDashes("a-b-a c-a-b-a"));
