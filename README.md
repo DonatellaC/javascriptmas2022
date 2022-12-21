@@ -35,3 +35,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 15 [Palindromes](https://scrimba.com/scrim/co9934ebc93bd899ba36b5991)
 
 ### Day 16 [Insert Dashes](https://scrimba.com/scrim/co09142de8b99d06e8b301151)
+
+### Day 17 [Pumpkin's Prizes](https://scrimba.com/scrim/co47c40059d0e4ece16f61d9c)
