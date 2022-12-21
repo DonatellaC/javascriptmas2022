@@ -41,3 +41,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 18 [Candies](https://scrimba.com/scrim/co90345e1a7f34daa0ed28d6d)
 
 ### Day 19 [Century From Year](https://scrimba.com/scrim/co76642c6b6769358855815aa)
+
+### Day 20 [Find Free Podcast](https://scrimba.com/scrim/co8f546c7b95e4e24cdab5e23)
