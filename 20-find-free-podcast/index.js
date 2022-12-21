@@ -20,6 +20,14 @@ Expected output:
 ]
 */
 
-function getFreePodcasts(data) {}
+function getFreePodcasts(data) {
+  const freePodcasts = data.filter((podcast) => !podcast.paid);
+
+  return freePodcasts.map((podcast) => ({
+    title: podcast.title,
+    rating: podcast.rating,
+    paid: podcast.paid,
+  }));
+}
 
 console.log(getFreePodcasts(podcasts));
