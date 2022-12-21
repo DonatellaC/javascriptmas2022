@@ -31,3 +31,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 13 [Emojify](https://scrimba.com/scrim/cod96436cb1607c549a9ad062)
 
 ### Day 14 [Count Vowel Consonant](https://scrimba.com/scrim/cof56479b8682f131946952e9)
+
+### Day 15 [Palindromes](https://scrimba.com/scrim/co9934ebc93bd899ba36b5991)
