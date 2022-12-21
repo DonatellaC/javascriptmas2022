@@ -33,3 +33,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 14 [Count Vowel Consonant](https://scrimba.com/scrim/cof56479b8682f131946952e9)
 
 ### Day 15 [Palindromes](https://scrimba.com/scrim/co9934ebc93bd899ba36b5991)
+
+### Day 16 [Insert Dashes](https://scrimba.com/scrim/co09142de8b99d06e8b301151)
