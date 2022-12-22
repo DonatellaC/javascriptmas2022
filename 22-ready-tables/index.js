@@ -1,11 +1,3 @@
-function getReadyTables() {
-  const readyTables = [];
-  for (let i = 0; i < 2; i++) {
-    readyTables.push(Math.round(Math.random() * 20) + 1);
-  }
-  return readyTables;
-}
-
 /* Challenge 3: Ready Tables
 - Topic: Return a Function
 Our restaurant has 20 tables and the staff serves 
@@ -25,3 +17,21 @@ be generated for each table value. Here is an example:
 5. Set the innerHTML content of the tables <section> 
 to the displayTables function call.
 */
+
+const tables = document.getElementById("tables");
+
+function getReadyTables() {
+  const readyTables = [];
+  for (let i = 0; i < 2; i++) {
+    readyTables.push(Math.round(Math.random() * 20) + 1);
+  }
+  return readyTables;
+}
+
+function displayTables() {
+  return getReadyTables()
+    .map((readyTable) => `<div class="table">${readyTable}</div>`)
+    .join("");
+}
+
+tables.innerHTML = displayTables();
