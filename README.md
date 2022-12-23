@@ -47,3 +47,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 21 [Definitely Not FizzBuzz](https://scrimba.com/scrim/cob7f4efdbc88f363635cb917)
 
 ### Day 22 [Ready Tables](https://scrimba.com/scrim/co07048bcaab48779f54dd9c3)
+
+### Day 23 [Holiday Gift Shopping](https://scrimba.com/scrim/co68a48bb83944f0aa8011d84)
