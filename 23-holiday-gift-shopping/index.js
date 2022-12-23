@@ -16,11 +16,10 @@ import products from "./data.js";
     ... continued
 */
 
-function sortProducts(data){
-    
+function sortProducts(data) {
+  return data.sort((a, b) => a.price - b.price);
 }
 
-const listByCheapest = sortProducts(products);
-console.log(listByCheapest);
-
-
+const listByCheapest = sortProducts(products).forEach((gift) => {
+  return console.log(gift.product, gift.price);
+});
