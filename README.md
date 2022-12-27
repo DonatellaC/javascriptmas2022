@@ -49,3 +49,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 22 [Ready Tables](https://scrimba.com/scrim/co07048bcaab48779f54dd9c3)
 
 ### Day 23 [Holiday Gift Shopping](https://scrimba.com/scrim/co68a48bb83944f0aa8011d84)
+
+### Day 24 [Christmas Jukebox](https://scrimba.com/scrim/co0014079a9f510887801859a)
